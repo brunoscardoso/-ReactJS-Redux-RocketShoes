@@ -20,3 +20,7 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Project prints:
+
+![1](https://user-images.githubusercontent.com/47576846/65176910-12c7a200-da2c-11e9-816c-c5c742d167d4.png)
+
+![2](https://user-images.githubusercontent.com/47576846/65176915-1529fc00-da2c-11e9-96b0-7fb845345d61.png)
